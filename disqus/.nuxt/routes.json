@@ -1,0 +1,23 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/nazmul/code/BrainStation23/disqus/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5cf2b69e"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/home/nazmul/code/BrainStation23/disqus/pages/signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_a8b04300"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/nazmul/code/BrainStation23/disqus/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_07df019a"
+  }
+]
