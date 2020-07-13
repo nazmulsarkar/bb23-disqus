@@ -1,7 +1,3 @@
-# MultiTenant Billing
-
-> Disqus app
-
 ## Build Setup
 
 ```bash
